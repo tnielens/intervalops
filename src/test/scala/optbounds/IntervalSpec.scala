@@ -1,0 +1,5 @@
+package optbounds
+
+class IntervalSpec {
+
+}
